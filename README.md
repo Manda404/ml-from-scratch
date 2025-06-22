@@ -95,6 +95,6 @@ Merci à la communauté open source pour l’inspiration continue. Ce projet est
 Si vous avez des questions, suggestions ou souhaitez collaborer :
 
 - 📧 Email : rostandsurel@yahoo.com
-- 💼 LinkedIn : *(à ajouter si tu veux)*
+- 💼 LinkedIn : [https://www.linkedin.com/in/rostand-surel/](https://www.linkedin.com/in/rostand-surel/)
 
 ---
