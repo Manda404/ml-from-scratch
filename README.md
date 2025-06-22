@@ -2,20 +2,17 @@
 
 > Auteur : **Manda Rostand**  
 > Profession : Data Scientist (5 ans d'expérience)  
-> Contact : rostandsurel@yahoo.com
+> Contact : rostandsurel@yahoo.com  
+> LinkedIn : [https://www.linkedin.com/in/rostand-surel/](https://www.linkedin.com/in/rostand-surel/)
 
 ---
 
-Ce dépôt GitHub a pour vocation d'être un référentiel **évolutif et pédagogique** dédié à l’apprentissage et à l’implémentation des principaux algorithmes de boosting. Il s’adresse aux étudiants, professionnels ou passionnés de machine learning qui souhaitent **comprendre les fondements mathématiques et algorithmiques** de ces modèles en les **reproduisant from scratch**.
+## 🧭 À propos de ce dépôt
 
----
+Ce dépôt GitHub constitue mon espace personnel d’apprentissage, de consolidation et d’expérimentation autour des **algorithmes de machine learning**, en particulier les **modèles de boosting**.  
+Il a pour vocation de **concentrer l’évolution de mes connaissances** dans le domaine de la **data science** en un seul endroit, en alternant théorie et implémentations pratiques.
 
-## 🚀 Objectif
-
-L’objectif principal est de **favoriser la compréhension approfondie** de modèles de boosting en partant de zéro :
-- en décortiquant leurs mécanismes internes,
-- en expliquant les intuitions mathématiques et algorithmiques,
-- et en les implémentant sans dépendre de bibliothèques toutes faites comme scikit-learn ou XGBoost directement.
+J’y documente de façon progressive et didactique tout ce que j’apprends ou maîtrise déjà, pour à la fois structurer mes idées et construire un socle pédagogique réutilisable.
 
 ---
 
@@ -57,16 +54,6 @@ Chaque sous-répertoire contient :
 
 ---
 
-## 📌 Pourquoi ce dépôt ?
-
-La majorité des projets ML reposent sur des bibliothèques haut niveau. Ce dépôt répond à un besoin différent :
-- **Démythifier** les modèles complexes
-- **Développer une intuition forte**
-- **Se préparer à des entretiens techniques ML/DS**
-- **Mieux comprendre les hyperparamètres et les choix d’implémentation**
-
----
-
 ## 🛠️ À venir
 
 - Ajout de notebooks Jupyter pour tester les implémentations
@@ -86,15 +73,14 @@ Voir [LICENSE](./LICENSE) pour plus d'informations.
 
 ## 🙌 Remerciements
 
-Merci à la communauté open source pour l’inspiration continue. Ce projet est également un outil d’auto-formation et de transmission.
+Merci à la communauté open source pour l’inspiration continue.  
+Ce projet est aussi un **outil personnel d’auto-formation, d’organisation et de transmission**.
 
 ---
 
 ## 📩 Contact
 
-Si vous avez des questions, suggestions ou souhaitez collaborer :
-
-- 📧 Email : rostandsurel@yahoo.com
+- 📧 Email : rostandsurel@yahoo.com  
 - 💼 LinkedIn : [https://www.linkedin.com/in/rostand-surel/](https://www.linkedin.com/in/rostand-surel/)
 
 ---
