@@ -1,7 +1,7 @@
 # Machine Learning from Scratch — Boosting Didactique
 
 > Auteur : **Manda Rostand**  
-> Profession : Data Scientist (5 ans d'expérience)  
+> Profession : Data Scientist 
 > Contact : rostandsurel@yahoo.com  
 > LinkedIn : [https://www.linkedin.com/in/rostand-surel/](https://www.linkedin.com/in/rostand-surel/)
 
